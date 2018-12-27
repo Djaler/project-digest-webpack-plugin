@@ -1,3 +1,7 @@
+# Project Digest Webpack Plugin
+
+Webpack plugin to generate file with digest of all project assets.
+
 <p>
   <a href="https://www.npmjs.com/package/project-digest-webpack-plugin">
       <img src="https://img.shields.io/npm/v/project-digest-webpack-plugin.svg" alt="Version">
@@ -6,10 +10,6 @@
     <img src="https://img.shields.io/npm/l/project-digest-webpack-plugin.svg" alt="License">
   </a>
 </p>
-
-# Project Digest Webpack Plugin
-
-Webpack plugin to generate file with digest of all project assets.
 
 ## Install
 
